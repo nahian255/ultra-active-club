@@ -13,9 +13,9 @@ const Main = () => {
     const handelAddToCard = (time) => {
         console.log(typeof time);
         const previousTimeS = document.getElementById('time').innerText
-        // const previousTime = parseInt(previousTimeS)
-        console.log( typeof previousTimeS);
-        const newTime = previousTimeS + time
+        const previousTime = parseFloat(previousTimeS)
+        console.log(typeof previousTime);
+        const newTime = previousTime + time
         setData(newTime)
 
 
@@ -34,7 +34,7 @@ const Main = () => {
             <div>
                 {console.log(data)}
                 <h3>main{ }</h3>
-                <h2>Showing time: <span id='time'>{data}</span></h2>
+                <h2>Showing time: <span id='time'>0{data}</span></h2>
             </div>
         </div>
     );
