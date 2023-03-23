@@ -3,14 +3,15 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import Header from './Component/Header/Header'
+import Main from './Component/Main/Main'
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div className="App">
+    <div>
       <Header></Header>
-      <h1>okk back</h1>
+      <Main></Main>
     </div>
   )
 }

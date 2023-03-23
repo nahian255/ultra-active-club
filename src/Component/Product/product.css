@@ -1,0 +1,19 @@
+.card {
+    position: relative;
+    border-style: solid;
+    border-color: aquamarine;
+    width: 90%;
+    height: 100%;
+
+    /* padding: 20px; */
+}
+
+.card img {
+    width: 100%;
+}
+
+.card button {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}

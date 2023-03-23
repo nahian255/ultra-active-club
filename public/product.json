@@ -3,24 +3,56 @@
         "name": "Harry Potter",
         "city": "London",
         "age": 25,
-        "time": 30
+        "time": 34,
+        "img": "https://www.copahost.com/blog/wp-content/uploads/2019/07/imgsize2.png"
     },
     {
-        "name": "Don Quixote",
-        "city": "Madrid",
+        "name": "Harry Potter",
+        "city": "London",
         "age": 25,
-        "time": 30
+        "time": 20,
+        "img": "https://www.copahost.com/blog/wp-content/uploads/2019/07/imgsize2.png"
     },
     {
-        "name": "Joan of Arc",
-        "city": "Paris",
+        "name": "Harry Potter",
+        "city": "London",
         "age": 25,
-        "time": 30
+        "time": 60,
+        "img": "https://www.copahost.com/blog/wp-content/uploads/2019/07/imgsize2.png"
     },
     {
-        "name": "Rosa Park",
-        "city": "Alabama",
+        "name": "Harry Potter",
+        "city": "London",
         "age": 25,
-        "time": 30
+        "time": 80,
+        "img": "https://www.copahost.com/blog/wp-content/uploads/2019/07/imgsize2.png"
+    },
+    {
+        "name": "Harry Potter",
+        "city": "London",
+        "age": 25,
+        "time": 90,
+        "img": "https://www.copahost.com/blog/wp-content/uploads/2019/07/imgsize2.png"
+    },
+    {
+        "name": "Harry Potter",
+        "city": "London",
+        "age": 25,
+        "time": 10,
+        "img": "https://www.copahost.com/blog/wp-content/uploads/2019/07/imgsize2.png"
+    },
+    {
+        "name": "Harry Potter",
+        "city": "London",
+        "age": 25,
+        "time": 30,
+        "img": "https://www.copahost.com/blog/wp-content/uploads/2019/07/imgsize2.png"
+    },
+    {
+        "name": "Harry Potter",
+        "city": "London",
+        "age": 25,
+        "time": 55,
+        "img": "https://www.copahost.com/blog/wp-content/uploads/2019/07/imgsize2.png"
     }
 ]
